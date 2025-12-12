@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Optional: AI crawlers list (helpful for visibility)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Meta-External-Bot
+Allow: /
